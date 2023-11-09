@@ -53,7 +53,7 @@ This is a simple webpage that allows users to upload images from their devices a
 
 - **Client-Side Security:** This code provides basic client-side password protection for demonstration purposes. In a real-world scenario, it's crucial to implement server-side authentication and authorization for better security.
 
-- **Password Strength:** Consider using a more robust password and encryption mechanisms for production applications.
+- **Password Strength:** Consider using more robust password and encryption mechanisms for production applications.
 
 ## Contributing
 
