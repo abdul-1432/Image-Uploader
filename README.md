@@ -55,8 +55,6 @@ This is a simple webpage that allows users to upload images from their devices a
 
 - **Password Strength:** Consider using more robust password and encryption mechanisms for production applications.
 
-## Contributing
-
 
 ## License
 
