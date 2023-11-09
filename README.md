@@ -57,7 +57,6 @@ This is a simple webpage that allows users to upload images from their devices a
 
 ## Contributing
 
-Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
