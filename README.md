@@ -34,7 +34,7 @@ This is a simple webpage that allows users to upload images from their devices a
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/image-upload-webpage.git
+    git clone https://github.com/abdul-1432/Image-Uploader
     ```
 
 2. Open the `index.html` file in your preferred web browser.
